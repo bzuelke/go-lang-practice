@@ -1,0 +1,1 @@
+C's while is spelled for in Go and you don't need the init and post for the for loop for this while loop function
