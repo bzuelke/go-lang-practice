@@ -1,1 +1,1 @@
-This repo is mainly for going in for a deep part by part understanding of go. Really getting romantic with it and not just getting the gist but understanding they why the things do what they do. Goal is to try to get to as free form GO programming as possible without so many lookups.
+This repo is mainly for going in for a deep part by part understanding of go. Really getting romantic with it and not just getting the gist but understanding the why the things do what they do. Goal is to try to get to as free form GO programming as possible without so many lookups.
